@@ -1,0 +1,8 @@
+C:\Users\magalu516\Desktop\Av3LP#\EstabelecimetoApsNetMvc\obj\Debug\net6.0\EstabelecimetoApsNetMvc.csproj.AssemblyReference.cache
+C:\Users\magalu516\Desktop\Av3LP#\EstabelecimetoApsNetMvc\obj\Debug\net6.0\EstabelecimetoApsNetMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magalu516\Desktop\Av3LP#\EstabelecimetoApsNetMvc\obj\Debug\net6.0\EstabelecimetoApsNetMvc.AssemblyInfoInputs.cache
+C:\Users\magalu516\Desktop\Av3LP#\EstabelecimetoApsNetMvc\obj\Debug\net6.0\EstabelecimetoApsNetMvc.AssemblyInfo.cs
+C:\Users\magalu516\Desktop\Av3LP#\EstabelecimetoApsNetMvc\obj\Debug\net6.0\EstabelecimetoApsNetMvc.csproj.CoreCompileInputs.cache
+C:\Users\magalu516\Desktop\Av3LP#\EstabelecimetoApsNetMvc\obj\Debug\net6.0\EstabelecimetoApsNetMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\magalu516\Desktop\Av3LP#\EstabelecimetoApsNetMvc\obj\Debug\net6.0\EstabelecimetoApsNetMvc.RazorAssemblyInfo.cache
+C:\Users\magalu516\Desktop\Av3LP#\EstabelecimetoApsNetMvc\obj\Debug\net6.0\EstabelecimetoApsNetMvc.RazorAssemblyInfo.cs
